@@ -60,8 +60,7 @@ a {
 }
 
 #hero-container {
-    display: flex;
-    flex-direction: column;
+    display: block;
 }
 
 #hero-portrait {
