@@ -62,7 +62,6 @@ a {
 #hero-container {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
 }
 
 #hero-portrait {
