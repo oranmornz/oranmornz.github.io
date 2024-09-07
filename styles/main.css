@@ -60,7 +60,8 @@ a {
 }
 
 #hero-container {
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
 
 #hero-portrait {
@@ -92,7 +93,7 @@ a {
 #footer {
     display: flex;
     background-color: rgb(244, 154, 51);
-    position: fixed;
+    position: absolute;
     bottom: 0px;
     width: 100%;
     justify-content: center;
