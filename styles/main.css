@@ -1,0 +1,95 @@
+/* Portrait colour pallette
+
+Light blue - rgb(169, 244, 226)
+Orange - rgb(244, 154, 51)
+Brown hair - rgb(89, 63, 44)
+Reddish orange - rgb(219, 86, 31)
+Red - rgb(243, 6, 3)
+
+*/
+
+body {
+    background-color: rgb(169, 244, 226);
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: helvetica;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(244, 154, 51);
+
+}
+
+.header-content {
+    font-size: 20px;
+}
+
+.header-title {
+    font-size: 40px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 10px;
+}
+
+.portrait {
+    height: 25%;
+    width: 25%;
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(219, 86, 31);
+    border-radius: 50%;
+}
+
+#hero-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#hero-portrait {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+#quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1em;
+    margin: 5px;
+}
+
+.quotation-italics {
+    font-style: italic;
+}
+
+#blog-entry {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px 150px 0px 150px;
+    text-align: justify;
+}
