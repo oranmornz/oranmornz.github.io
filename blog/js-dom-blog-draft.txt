@@ -1,0 +1,21 @@
+Think of a well designed and modern building. 
+
+Any such building will be designed, constructed, engineered and integrated in order to effectively serve its purpose. It will have a refined structure, architectural aesthetics and flair, and an interconnected collection of technical features, functions, and services. 
+
+A web page isn't much different. Similarly, it has its three core components: HTML, CSS, and JavaScript.
+
+Take a concert hall for example. Fundamentally, it will be built around an intricately designed structure. The hall itself will no doubt have high ceilings, a vast surround of staggered seating, and a number of niche fixtures and spaces.
+
+Around the hall will be a supporting structure designed to accomodate hospitality needs, ranging from bathrooms, ticketing, and concessions, among other things. Behind the hall itself will be back-end spaces serving the needs of the logistical crews, performers, in-house teams, and other facilities.
+
+This structure, is HTML. The framework around and upon which everything is built.
+
+The design of the building itself no doubt is very beautiful. Almost certainly the buildings façade has a uniquely artistic flair, and the foyer styled similarly. Bathrooms may look like something out of science fiction, and help desks inviting and warm.
+
+The hall itself will be designed with acoustics in mind, with all materials and surfaces carefully sculpted to enhance and control invisible sound waves. Their design helps to project quiet tones far into the audience, and keep the loudest of sounds from reverberating in an uncontrolled manner.
+
+This design, is CSS. It builds upon the buildings structure to set a certain ambience, or tone, and to heighten the sense of occasion that is visiting such a unique space.
+
+And what about the integrated systems? The audio/visual/lighting systems, the paging system, communications, ticketing back-end, Wi-Fi, et al? 
+
+That's the JavaScript component. The invisible network of cabling and purposeful equipment that connects everything, providing a seamless experience to concert goers from the moment they arrive, to the moment they leave. 
